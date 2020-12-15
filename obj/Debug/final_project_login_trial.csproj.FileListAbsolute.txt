@@ -14,13 +14,17 @@ C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bi
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bin\Debug\MySql.Data.xml
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_project_login_trial.csprojAssemblyReference.cache
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final prject login trial.exe.config
-C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Form1.resources
-C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Form2.resources
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Properties.Resources.resources
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_project_login_trial.csproj.GenerateResource.cache
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_project_login_trial.csproj.CoreCompileInputs.cache
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_project_login_trial.csproj.CopyComplete
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final prject login trial.exe
 C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final prject login trial.pdb
-C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bin\Debug\Database1.mdf
-C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bin\Debug\Database1_log.ldf
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bin\Debug\dataserver.mdf
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\bin\Debug\dataserver_log.ldf
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Form3.resources
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Main.resources
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Login.resources
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Create.resources
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.Search.resources
+C:\Users\IIMBA\source\repos\final prject login trial\final prject login trial\obj\Debug\final_prject_login_trial.SearchMenu.resources
